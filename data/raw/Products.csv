@@ -1,0 +1,101 @@
+﻿ProductID,ProductName,Category,SubCategory,UnitPrice,UnitCost,IsActive
+1,حاسب محمول أعمال,Electronics,Laptops,3377.42,1878.7,1
+2,حاسب محمول خفيف,Electronics,Laptops,1504.45,1104.44,1
+3,حاسب محمول احترافي,Electronics,Laptops,4514.81,2581.27,1
+4,حاسب محمول اقتصادي,Electronics,Laptops,634.09,383.41,1
+5,حاسب محمول متقدم,Electronics,Laptops,619.41,371.47,1
+6,شاشة 22 بوصة,Electronics,Monitors,2952.24,1786.43,1
+7,شاشة 24 بوصة,Electronics,Monitors,4142.44,2285.07,1
+8,شاشة 27 بوصة,Electronics,Monitors,3641.63,2312.66,1
+9,شاشة عريضة,Electronics,Monitors,4807.46,3048.64,1
+10,شاشة احترافية,Electronics,Monitors,935.22,712.52,1
+11,جهاز لوحي أساسي,Electronics,Tablets,4132.08,3026.47,1
+12,جهاز لوحي متقدم,Electronics,Tablets,4879.02,3145.18,1
+13,جهاز لوحي للأعمال,Electronics,Tablets,4232.32,2982.22,1
+14,جهاز لوحي خفيف,Electronics,Tablets,3098.08,2249.65,0
+15,جهاز لوحي احترافي,Electronics,Tablets,1525.54,949.42,1
+16,طابعة ليزر,Electronics,Printers,1547.56,890.23,1
+17,طابعة ألوان,Electronics,Printers,3360.58,2154.83,1
+18,طابعة متعددة الوظائف,Electronics,Printers,1442.78,889.83,1
+19,طابعة مكتبية,Electronics,Printers,3416.16,2399.11,1
+20,طابعة شبكية,Electronics,Printers,3781.07,2234.05,1
+21,موجه شبكة,Electronics,Networking,4952.86,3516.53,1
+22,موزع شبكة,Electronics,Networking,3580.76,2723.93,1
+23,نقطة وصول لاسلكية,Electronics,Networking,1530.72,854.18,1
+24,مقوي شبكة,Electronics,Networking,1704.83,1027.58,1
+25,مبدل شبكة,Electronics,Networking,4443.65,2793.59,1
+26,لوحة مفاتيح لاسلكية,Accessories,Keyboards,346.72,269.97,1
+27,لوحة مفاتيح سلكية,Accessories,Keyboards,248.66,152.09,1
+28,لوحة مفاتيح ميكانيكية,Accessories,Keyboards,247.06,171.99,1
+29,لوحة مفاتيح مكتبية,Accessories,Keyboards,349.55,211.42,1
+30,لوحة مفاتيح صغيرة,Accessories,Keyboards,432.14,247.5,0
+31,فأرة لاسلكية,Accessories,Mice,132.24,93.48,1
+32,فأرة سلكية,Accessories,Mice,366.62,207.46,1
+33,فأرة احترافية,Accessories,Mice,797.09,543.84,1
+34,فأرة مكتبية,Accessories,Mice,695.58,384.57,1
+35,فأرة صغيرة,Accessories,Mice,561.28,384.05,1
+36,سماعة رأس لاسلكية,Accessories,Headsets,530.72,306.7,1
+37,سماعة رأس مكتبية,Accessories,Headsets,390.29,307.73,1
+38,سماعة رأس احترافية,Accessories,Headsets,247.54,167.13,1
+39,سماعة مكالمات,Accessories,Headsets,734.47,563.8,1
+40,سماعة رأس خفيفة,Accessories,Headsets,529.21,371.63,1
+41,قرص تخزين خارجي,Accessories,Storage,621.88,425.89,1
+42,ذاكرة فلاش,Accessories,Storage,447.77,246.34,1
+43,قرص SSD خارجي,Accessories,Storage,64.61,50.54,1
+44,وحدة تخزين متنقلة,Accessories,Storage,673.75,422.36,0
+45,بطاقة ذاكرة,Accessories,Storage,708.51,557.41,1
+46,حقيبة حاسب محمول,Accessories,Bags,414.49,235.14,1
+47,حقيبة أعمال,Accessories,Bags,624.38,363.45,1
+48,حقيبة أجهزة,Accessories,Bags,462.35,284.93,1
+49,حقيبة ظهر للحاسب,Accessories,Bags,367.35,221.49,1
+50,حقيبة حماية,Accessories,Bags,597.45,358.64,1
+51,كرسي مكتبي اقتصادي,Furniture,Chairs,2489.33,1773.57,1
+52,كرسي مكتبي احترافي,Furniture,Chairs,1438.67,834.79,1
+53,كرسي اجتماعات,Furniture,Chairs,1043.79,727.6,1
+54,كرسي مريح,Furniture,Chairs,784.48,445.39,1
+55,كرسي إداري,Furniture,Chairs,803.67,623.93,1
+56,مكتب عمل صغير,Furniture,Desks,455.89,277.87,1
+57,مكتب عمل متوسط,Furniture,Desks,771.32,449.74,1
+58,مكتب تنفيذي,Furniture,Desks,1556.29,1039.86,1
+59,مكتب زاوية,Furniture,Desks,2076.49,1240.92,1
+60,مكتب قابل للتعديل,Furniture,Desks,1248.31,818.76,1
+61,طاولة اجتماعات صغيرة,Furniture,Tables,1903.97,1367.7,1
+62,طاولة اجتماعات كبيرة,Furniture,Tables,516.52,336.08,1
+63,طاولة جانبية,Furniture,Tables,2195.68,1344.12,1
+64,طاولة عمل,Furniture,Tables,1286.95,843.56,1
+65,طاولة متعددة الاستخدام,Furniture,Tables,849.57,663.36,1
+66,خزانة ملفات,Furniture,Storage,2194.97,1509.22,0
+67,خزانة مكتبية,Furniture,Storage,2498.42,1896.32,1
+68,وحدة أدراج,Furniture,Storage,2338.01,1781.97,1
+69,رف تخزين,Furniture,Storage,1368.41,825.75,1
+70,خزانة جانبية,Furniture,Storage,429.0,276.59,1
+71,محطة عمل فردية,Furniture,Workstations,883.45,659.07,1
+72,محطة عمل مزدوجة,Furniture,Workstations,1230.62,971.36,1
+73,محطة عمل مكتبية,Furniture,Workstations,1522.69,1110.96,1
+74,محطة عمل مفتوحة,Furniture,Workstations,952.76,754.75,1
+75,محطة عمل احترافية,Furniture,Workstations,1492.83,1100.21,0
+76,ورق طباعة A4,Office Supplies,Paper,590.41,398.95,1
+77,ورق طباعة A3,Office Supplies,Paper,170.07,134.39,1
+78,ورق ملون,Office Supplies,Paper,198.04,138.38,1
+79,ورق ملاحظات,Office Supplies,Paper,246.68,143.07,1
+80,دفتر ملاحظات,Office Supplies,Paper,257.52,179.91,1
+81,حبر طابعة أسود,Office Supplies,Ink,427.94,297.81,1
+82,حبر طابعة ملون,Office Supplies,Ink,935.69,562.41,1
+83,خرطوشة حبر كبيرة,Office Supplies,Ink,250.11,162.31,1
+84,خرطوشة حبر اقتصادية,Office Supplies,Ink,310.5,195.32,1
+85,حبر طابعة احترافي,Office Supplies,Ink,86.45,57.45,1
+86,أقلام حبر,Office Supplies,Writing,996.16,566.13,1
+87,أقلام رصاص,Office Supplies,Writing,276.22,216.37,1
+88,أقلام تحديد,Office Supplies,Writing,881.08,565.99,1
+89,طقم كتابة,Office Supplies,Writing,836.24,607.01,1
+90,أقلام سبورة,Office Supplies,Writing,987.42,704.52,0
+91,منظم مكتب,Office Supplies,Organization,819.85,512.28,1
+92,ملف مستندات,Office Supplies,Organization,939.85,548.47,1
+93,حافظة أوراق,Office Supplies,Organization,120.43,82.89,1
+94,صندوق أرشيف,Office Supplies,Organization,610.76,445.49,1
+95,منظم ملفات,Office Supplies,Organization,639.72,394.06,1
+96,آلة تمزيق أوراق,Office Supplies,Equipment,906.76,690.52,1
+97,آلة تغليف,Office Supplies,Equipment,432.22,267.62,0
+98,آلة حاسبة مكتبية,Office Supplies,Equipment,774.55,549.37,1
+99,مثقاب أوراق,Office Supplies,Equipment,745.11,512.58,1
+100,دباسة مكتبية,Office Supplies,Equipment,24.52,13.95,1
