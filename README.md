@@ -116,29 +116,92 @@
 ```text
 RetailSalesAnalytics/
 │
-├── data/
-│   ├── raw/
-│   └── processed/
+├── README.md
+├── untitled.py
 │
-├── sql/
+├── .ipynb_checkpoints/
+│   └── untitled-checkpoint.py
+│
+├── data/
+│   ├── processed/
+│   │   ├── Customers_clean.csv
+│   │   ├── OrderItems_clean.csv
+│   │   ├── Orders_clean.csv
+│   │   ├── Products_clean.csv
+│   │   └── Regions_clean.csv
+│   │
+│   └── raw/
+│       ├── Customers.csv
+│       ├── OrderItems.csv
+│       ├── Orders.csv
+│       ├── Products.csv
+│       └── Regions.csv
+│
+├── database/
+│   └── .gitkeep
+│
+├── powerbi/
+│   ├── .gitkeep
+│   ├── README.md
+│   └── RetailSalesAnalytics_Executive.pbix
 │
 ├── python/
 │   ├── generate_data.py
+│   │
 │   └── notebooks/
 │       ├── 01_data_loading.ipynb
 │       ├── 02_data_cleaning.ipynb
 │       ├── 03_eda.ipynb
 │       ├── 04_statistics.ipynb
-│       └── 05_predictive_analytics.ipynb
-│
-├── powerbi/
+│       ├── 05_predictive_analytics.ipynb
+│       │
+│       └── .ipynb_checkpoints/
+│           ├── 01_data_loading-checkpoint.ipynb
+│           ├── 02_data_cleaning-checkpoint.ipynb
+│           ├── 03_eda-checkpoint.ipynb
+│           └── 04_statistics-checkpoint.ipynb
 │
 ├── reports/
+│   ├── .gitkeep
+│   │
 │   ├── data_storytelling/
+│   │   ├── executive_summary.md
+│   │   ├── insights_catalog.md
+│   │   ├── presentation_plan.md
+│   │   ├── story_outline.md
+│   │   │
+│   │   ├── branding/
+│   │   │   ├── RetailSales_Executive_Story.html
+│   │   │   └── RetailSales_Executive_Story.pdf
+│   │   │
+│   │   └── visuals/
+│   │       ├── 01_monthly_yoy_change.png
+│   │       ├── 01_monthly_yoy_change.svg
+│   │       ├── 02_category_yoy_change.png
+│   │       ├── 02_category_yoy_change.svg
+│   │       ├── 03_segment_yoy_change.png
+│   │       ├── 03_segment_yoy_change.svg
+│   │       ├── 04_segment_aov.png
+│   │       ├── 04_segment_aov.svg
+│   │       ├── 05_product_yoy_change.png
+│   │       ├── 05_product_yoy_change.svg
+│   │       ├── 06_order_status_rates.png
+│   │       └── 06_order_status_rates.svg
+│   │
 │   └── predictive_analytics/
 │       └── predictive_analytics_report.md
 │
-└── README.md
+└── sql/
+    ├── 01_create_database.sql
+    ├── 02_create_tables.sql
+    ├── 03_import_data.sql
+    ├── 04_data_exploration.sql
+    ├── 05_sales_kpis.sql
+    ├── 06_sales_analysis.sql
+    ├── 07_product_analysis.sql
+    ├── 08_customer_analysis.sql
+    ├── 09_data_quality_analysis.sql
+    └── 10_sales_analysis_view.sql
 ```
 
 ---
